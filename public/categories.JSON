@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name":"Wireless Controller",
+        "img":"https://user-images.githubusercontent.com/86622912/146934150-598662d5-5004-4581-b81d-41473cb67f5c.png"
+    },
+    {
+        "id": 2,
+        "name":"Headphones",
+        "img":"https://user-images.githubusercontent.com/86622912/146934839-9039c31b-0ea1-48ba-8b9b-3a344f6eba02.png"
+    },
+    {
+        "id": 3,
+        "name":"Airpods",
+        "img":"https://user-images.githubusercontent.com/86622912/146934752-ed47af44-0c56-4473-b04a-a2085fa204b1.png"
+    },
+    {
+        "id": 4,
+        "name":"Watchs",
+        "img":"https://user-images.githubusercontent.com/86622912/146934847-70335ae3-8ae9-431a-8dc7-f13e895ce289.png"
+    },
+    {
+        "id": 5,
+        "name":"Speakers",
+        "img":"https://user-images.githubusercontent.com/86622912/146934845-7254d6d6-185b-4ca4-a135-6f8fd9a007a8.png"
+    }
+]
